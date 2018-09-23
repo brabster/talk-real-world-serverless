@@ -4,7 +4,8 @@
 - Self-assembly?
 
 Note:
- - BaaS
+ - Given a bunch of serverless solutions, how do you assemble them into something that solves problems?
+ - BaaS - pre-integrated
    - Firebase, 1Backend, Backendless
    - Suites of services that cover most/all common needs for apps, websites
    - Particularly good for frontend-strong teams
