@@ -2,7 +2,7 @@
 
 <img
   alt="Multi-source/multi-destination analytics, fanning-in to a Kinesis stream and fanning-out to multiple target systems"
-  src="images/Testing.svg"></img>
+  src="images/large-analytics-before.svg"></img>
 
 Note:
  - Simple architecture
@@ -26,3 +26,4 @@ Issues
  - Clojure - cold start problem https://juxt.pro/blog/posts/clojure-in-sky-bet.html
  - Testing
  - Capacity issues ground things to a halt very quickly
+ - permissions - fine-grained more work but documents what's doing what to what
