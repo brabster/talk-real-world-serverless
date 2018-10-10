@@ -1,4 +1,4 @@
-## Sync Glue
+## Production Glue
 
 ![DynamoDB producing a stream of updates that Lambda transforms and pushes into Elasticsearch](images/glue-code.png)
 

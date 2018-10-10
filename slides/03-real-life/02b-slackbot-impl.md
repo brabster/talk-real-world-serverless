@@ -1,6 +1,10 @@
 ## "http-ping" Slackbot
 
 ```javascript
+> { "url": "https://google.com" }
+```
+
+```javascript
 // set up some helper functions
 const get = promisify(http.get);
 const normalise, formatSuccess, formatError...;
@@ -9,10 +13,6 @@ const normalise, formatSuccess, formatError...;
 exports.handler = (event, context) => get(normalise(event.url))
     .then(formatSuccess)
     .catch(formatError);
-```
-
-``` javascript
-> { "url": "https://google.com" }
 ```
 
 ```javascript
