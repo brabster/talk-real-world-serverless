@@ -1,6 +1,6 @@
 ## "http-ping" Slackbot
 
-> \httpping wakelet.com
+> \httpping google.com
 
 ![A screenshot of the http-ping slackbot reporting status codes and headers](images/slackbot.jpeg)
 

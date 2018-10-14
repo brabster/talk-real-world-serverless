@@ -5,12 +5,9 @@
 ```
 
 ```javascript
-// set up some helper functions
-const get = promisify(http.get);
-const normalise, formatSuccess, formatError...;
+// assume we've imported libs and set up helper functions...
 
-// AWS Lambda API starts here
-exports.handler = (event, context) => get(normalise(event.url))
+exports.handler = (event, context) => get(event.url)
     .then(formatSuccess)
     .catch(formatError);
 ```

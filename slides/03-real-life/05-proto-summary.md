@@ -1,9 +1,11 @@
 ## Summary
 
-- Cheap (Free!)
+For prototypes, side projects, etc.
+
 - Quick
 - Easy
-- Secure
+- Cheap*
+- Secure*
 
 Note:
  - The constraints that serverless adds help avoid distraction and delay
