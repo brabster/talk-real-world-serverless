@@ -2,6 +2,8 @@
 
 ![DynamoDB producing a stream of updates that Lambda transforms and pushes into Elasticsearch](images/glue-code.png)
 
+also view counting, machine vision, provisioning
+
 Note:
  - DynamoDB can produce a stream of changes
  - Lambda can use the stream as a trigger

@@ -3,10 +3,8 @@
 AWS Cloudwatch for:
 
 - Logging
-- Metrics
 - Alarms (to Slack)
 - Dashboard
-
 
 
 Note:
