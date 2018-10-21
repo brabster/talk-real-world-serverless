@@ -1,10 +1,12 @@
-## Summary
+## Protoypes/Side Projects Summary
 
-For prototypes, side projects, etc.
+### Compelling?
+
+plus...
 
 - Quick
 - Easy
-- Cheap*
+- Cheap
 - Secure*
 
 Note:

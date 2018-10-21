@@ -1,10 +1,7 @@
 ## Testing
 
 - Unit Testing
-  - standard library
-  - individual functions
 - Integration Testing
-  - is there a local/embedded version?
 - End-to-End Testing
 
 Note:
