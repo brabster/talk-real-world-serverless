@@ -2,6 +2,6 @@
 
 <img src="images/all_the_things.png"></img>
 
-Paul Brabban | Tempered Works
+### Paul Brabban
 
-https://tempered.works
+@brabster | paul@tempered.works

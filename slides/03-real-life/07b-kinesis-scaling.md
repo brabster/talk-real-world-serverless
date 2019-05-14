@@ -4,6 +4,6 @@ Kinesis &harr; Lambda &harr; DynamoDB
 
 <hr/>
 
-- Kinesis - no autoscaling
+- Kinesis - no autoscaling (at the time)
 - Lambda - one instance per partition
-- DynamoDB - no autoscaling
+- DynamoDB - no autoscaling (at the time)

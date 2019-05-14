@@ -1,4 +1,4 @@
-## "http-ping" Slackbot
+## "web-ping" Slackbot
 
 ![Slackbot architecture](images/slackbot-architecture.png)
 

@@ -1,4 +1,4 @@
-## "http-ping" Slackbot
+## "web-ping" Slackbot
 
 ```javascript
 > { "url": "https://google.com" }
@@ -12,3 +12,16 @@ exports.handler =
     .catch(formatError);
 </code>
 </pre>
+
+<pre class="fragment">
+<code>
+$> sam package --template-file webping.yaml ...
+$> sam deploy --stack-name webpingdemo ...
+</code>
+<pre>
+
+Note:
+- scales up/down
+- https
+- HA
+- monitoring, logging

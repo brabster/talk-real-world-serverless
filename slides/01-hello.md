@@ -6,4 +6,4 @@ Use spacebar and the arrows to advance slides
 
 ### Paul Brabban
 
-paul@tempered.works
+@brabster | paul@tempered.works
