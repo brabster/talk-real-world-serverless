@@ -1,4 +1,4 @@
-## "http-ping" Slackbot
+## "web-ping" Slackbot
 
 > \httpping google.com
 

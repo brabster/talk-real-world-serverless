@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "What is 'serverless', and what is it like to work with? Paul has worked with serverless technology on projects both small and large and he will share those experiences - what worked, what didn't, and what to think about on your own projects.",
   "author": "Paul Brabban",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prez": "^4.7.0"
+  }
 }
